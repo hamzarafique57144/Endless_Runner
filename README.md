@@ -5,3 +5,4 @@ Unique Gameplay: Control a football player as the main character, adding a twist
 Progressive Challenges: Face increasing waves of enemies, with each wave presenting a higher level of difficulty. The strategic evolution keeps the game fresh and entertaining.
 
 Power-Up Mechanism: Collect gems scattered across the island to power up your player. When powered up, unleash mighty kicks to send enemies flying with greater force.
+![Defend](https://github.com/hamzarafique57144/Defend_Island/assets/154212213/44c2db93-e998-477b-b52f-8f91c1c9a783)
